@@ -9,54 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d22c12-bde5-4b5a-9cbb-d8efe3c39a80" name="Changes" comment="Some stuff from rider">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Classes/Animal.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Classes/Monkey.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Exercises.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Inheritance.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shared/Shared.csproj" afterDir="false" />
+    <list default="true" id="c0d22c12-bde5-4b5a-9cbb-d8efe3c39a80" name="Changes" comment="Removed bin and obj and added first inheritance exercises">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LearningExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearningExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Casting.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Casting.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Enemies/FastEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Classes/Enemies/FastEnemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Enemies/FlyingEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Classes/Enemies/FlyingEnemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Enemies/SlowEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Classes/Enemies/SlowEnemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Classes/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Exercises.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/GameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Classes/GameObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Classes/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/Vector2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/Vector2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/bin/Debug/net8.0/Casting.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/bin/Debug/net8.0/Casting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/bin/Debug/net8.0/Casting.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/bin/Debug/net8.0/Casting.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/bin/Debug/net8.0/Casting.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Casting.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Casting.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Casting.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/Casting.sourcelink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/ref/Casting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/Debug/net8.0/refint/Casting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casting/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningExercises.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LearningExercises.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casting/Exercises.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Exercises.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Classes/Animal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Classes/Monkey.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Exercises.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Exercises.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Inheritance.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +111,7 @@
       <updated>1720515778495</updated>
       <workItem from="1720515780612" duration="220000" />
       <workItem from="1720522212353" duration="378000" />
-      <workItem from="1720536469002" duration="2659000" />
+      <workItem from="1720536469002" duration="7909000" />
     </task>
     <task id="LOCAL-00001" summary="Some stuff from rider">
       <option name="closed" value="true" />
@@ -162,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720536524544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed bin and obj and added first inheritance exercises">
+      <option name="closed" value="true" />
+      <created>1720539192213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720539192213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Some stuff from rider" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some stuff from rider" />
+    <MESSAGE value="Removed bin and obj and added first inheritance exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed bin and obj and added first inheritance exercises" />
   </component>
 </project>
