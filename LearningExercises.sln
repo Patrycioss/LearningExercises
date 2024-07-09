@@ -1,0 +1,21 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting\Casting.csproj", "{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GXPEngine\GXPEngine.csproj
+	EndGlobalSection
+EndGlobal
