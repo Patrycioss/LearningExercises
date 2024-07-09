@@ -1,17 +1,29 @@
 ﻿using System.Diagnostics;
-using Casting.Enemies;
+using Casting.Classes;
+using Casting.Classes.Enemies;
+using Shared;
 
 namespace Casting;
 
-public class Game
+public class Exercises
 {
     // Reusable vars
     private static readonly Vector2 PLAYER_POSITION = new Vector2(100, 100);
     private readonly Random random = new Random();
     private readonly Player player = new Player(PLAYER_POSITION);
 
-    public Game()
+    public Exercises()
     {
+        // Explanation:
+        // Casting is to convert the type of a variable to another.
+        // This is used for numerical conversions: int->float, float->int, double->float, double->int etc...
+        // But also for converting between classes that inherit of the same type.
+        // Let's say you have a Monkey that inherits from an Animal.
+        // All monkeys can inherently be saved as animals. However, if you want to convert an Animal to
+        // a Monkey you will have to cast it. This is because the Monkey will hold more information than the Animal.
+        // I will not put the ways to do it in here as I think it's more educational to look them up yourself.
+        // There are a few different ways to do casting so take a look around.
+        
         // Exercise 1:
         // Convert this double to a float.
         {
@@ -19,7 +31,6 @@ public class Game
             double a = 5.0d;
             
             // Your answer:
-            //float b = a;
             
         }
         

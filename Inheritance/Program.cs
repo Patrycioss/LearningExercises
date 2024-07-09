@@ -1,3 +1,3 @@
-﻿using Casting;
+﻿using Inheritance;
 
 Exercises exercises = new Exercises();

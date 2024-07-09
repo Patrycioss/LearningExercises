@@ -1,4 +1,4 @@
-﻿namespace Casting;
+﻿namespace Shared;
 
 public struct Vector2
 {

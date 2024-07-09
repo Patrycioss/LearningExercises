@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SharpDevelop 4.3
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting\Casting.csproj", "{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{79EBC4BC-6879-4453-A63B-3B9BF2B2EAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{4E50025A-5148-4F8C-A3D8-3A16F7C3EE4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +18,14 @@ Global
 		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CD40BCE-70DE-4401-8FE7-7AE45003E1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EBC4BC-6879-4453-A63B-3B9BF2B2EAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EBC4BC-6879-4453-A63B-3B9BF2B2EAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EBC4BC-6879-4453-A63B-3B9BF2B2EAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EBC4BC-6879-4453-A63B-3B9BF2B2EAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E50025A-5148-4F8C-A3D8-3A16F7C3EE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E50025A-5148-4F8C-A3D8-3A16F7C3EE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E50025A-5148-4F8C-A3D8-3A16F7C3EE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E50025A-5148-4F8C-A3D8-3A16F7C3EE4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = GXPEngine\GXPEngine.csproj

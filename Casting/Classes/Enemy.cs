@@ -1,4 +1,6 @@
-﻿namespace Casting;
+﻿using Shared;
+
+namespace Casting.Classes;
 
 public class Enemy : GameObject
 {

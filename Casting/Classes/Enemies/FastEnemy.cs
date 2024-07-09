@@ -1,4 +1,6 @@
-﻿namespace Casting.Enemies;
+﻿using Shared;
+
+namespace Casting.Classes.Enemies;
 
 public class FastEnemy : Enemy
 {
