@@ -9,13 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d22c12-bde5-4b5a-9cbb-d8efe3c39a80" name="Changes" comment="Removed bin and obj and added first inheritance exercises">
+    <list default="true" id="c0d22c12-bde5-4b5a-9cbb-d8efe3c39a80" name="Changes" comment="Added inheritance exercises">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LearningExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearningExercises/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Casting/Exercises.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Casting/Exercises.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Classes/Animal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Classes/Monkey.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Exercises.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Exercises.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Inheritance.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +107,7 @@
       <updated>1720515778495</updated>
       <workItem from="1720515780612" duration="220000" />
       <workItem from="1720522212353" duration="378000" />
-      <workItem from="1720536469002" duration="7909000" />
+      <workItem from="1720536469002" duration="8228000" />
     </task>
     <task id="LOCAL-00001" summary="Some stuff from rider">
       <option name="closed" value="true" />
@@ -129,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720539192213</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added inheritance exercises">
+      <option name="closed" value="true" />
+      <created>1720550553994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720550553994</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +156,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Some stuff from rider" />
     <MESSAGE value="Removed bin and obj and added first inheritance exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed bin and obj and added first inheritance exercises" />
+    <MESSAGE value="Added inheritance exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added inheritance exercises" />
   </component>
 </project>
